@@ -1,0 +1,5 @@
+div>header>h1{Some Website}^nav>(div.nav)*4
+
+main>section>img[src="https://placekitten.com/g/300/300" alt="cat1"]+p{lorem50}^section>(div>img[src="https://placekitten.com/150/150" alt="cat$$"]+p{lorem20})*4
+
+aside>(div>img[src="https://placekitten.com/100/100" alt="cat$$"])*4
